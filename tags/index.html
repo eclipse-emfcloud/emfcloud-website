@@ -418,7 +418,7 @@ html {
                 Contact
               </a>
             </li><li class="nav-item">
-              <a href="https://github.com/eclipsesource/emfcloud"
+              <a href="https://github.com/eclipse-emfcloud/emfcloud"
                   class="nav-link">
                 GitHub
               </a>
@@ -590,7 +590,7 @@ EMF.cloud is the umbrella project for components and technologies making the Ecl
 
   <div class="row justify-content-center align-items-stretch items">
           <div class="col-md-4 d-flex flex-column">
-              <a href="https://https://www.eclipse.org/glsp/" class="col justify-content-between d-flex flex-column header text-body">
+              <a href="https://www.eclipse.org/glsp/" class="col justify-content-between d-flex flex-column header text-body">
               <div class="row image justify-content-center align-items-center">
                     <span class="fa-stack fa-3x m-2" title="Graphical Language Server Platform (GLSP)">
                       <i class="fas fa-circle fa-stack-2x text-primary"></i>
@@ -603,7 +603,7 @@ EMF.cloud is the umbrella project for components and technologies making the Ecl
               </a>
             <div class="row justify-content-center text-center p-2">
                 <div class=" text-body">
-                  <p>The <a href="https://https://www.eclipse.org/glsp/">Graphical Language Server Platform (GLSP)</a> supports the development of web-based diagram editors. It transfer the advantages of the language server protocol (LSP) to graphical modeling languages. GLSP is well integrated with other EMF.cloud components such as the model server and is used as a basis for the coffee editor and the Theia Ecore extension.</p>
+                  <p>The <a href="https://www.eclipse.org/glsp/">Graphical Language Server Platform (GLSP)</a> supports the development of web-based diagram editors. It transfer the advantages of the language server protocol (LSP) to graphical modeling languages. GLSP is well integrated with other EMF.cloud components such as the model server and is used as a basis for the coffee editor and the Theia Ecore extension.</p>
 
                 </div>
             </div>
@@ -701,7 +701,7 @@ EMF.cloud is the umbrella project for components and technologies making the Ecl
       <div class="col-md">
         <div class="row mx-0 my-2 justify-content-center text-center text-lg-none text-black-50">
           <div class="row mx-0 mr-lg-auto justify-content-center">
-              <div class="col-auto px-1">© Copyright&nbsp;2019</div>
+              <div class="col-auto px-1">© Copyright&nbsp;2020</div>
               <div class="col-auto px-0"> by  Eclipse Foundation</div>
           </div>
         </div>
@@ -761,5 +761,26 @@ EMF.cloud is the umbrella project for components and technologies making the Ecl
     <!-- Theme Code -->
       <script async defer src="/emfcloud/scripts/syna-main.min.7d08697560d9c911a0194673093ed24e917be39c0c6ea6ffe9bfefd7869f9f34.js"></script>
       <script async defer src="/emfcloud/scripts/syna-hero.min.4c86bbf85a8655c22c5046df9f983a1f0a0f771915f9f447a6872a863a6714ef.js"></script>
+<script type="application/javascript">
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	if (window.sessionStorage) {
+		var GA_SESSION_STORAGE_KEY = 'ga:clientId';
+		ga('create', 'UA-155083212-1', {
+	    'storage': 'none',
+	    'clientId': sessionStorage.getItem(GA_SESSION_STORAGE_KEY)
+	   });
+	   ga(function(tracker) {
+	    sessionStorage.setItem(GA_SESSION_STORAGE_KEY, tracker.get('clientId'));
+	   });
+   }
+	ga('set', 'anonymizeIp', true);
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
   </body>
 </html>
