@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.eclipse.org/emfcloud/categories/</loc>
+    <loc>https://staging.eclipse.org/emfcloud/categories/</loc>
   </url>
   
   <url>
-    <loc>https://www.eclipse.org/emfcloud/contact/</loc>
+    <loc>https://staging.eclipse.org/emfcloud/contact/</loc>
   </url>
   
   <url>
-    <loc>https://www.eclipse.org/emfcloud/documentation/</loc>
+    <loc>https://staging.eclipse.org/emfcloud/documentation/</loc>
   </url>
   
   <url>
-    <loc>https://www.eclipse.org/emfcloud/</loc>
+    <loc>https://staging.eclipse.org/emfcloud/</loc>
   </url>
   
   <url>
-    <loc>https://www.eclipse.org/emfcloud/support/</loc>
+    <loc>https://staging.eclipse.org/emfcloud/support/</loc>
   </url>
   
   <url>
-    <loc>https://www.eclipse.org/emfcloud/tags/</loc>
+    <loc>https://staging.eclipse.org/emfcloud/tags/</loc>
   </url>
   
 </urlset>
