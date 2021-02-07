@@ -4,10 +4,6 @@
     <title>Categories on EMF.cloud</title>
     <link>https://www.eclipse.org/emfcloud/categories/</link>
     <description>Recent content in Categories on EMF.cloud</description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="https://www.eclipse.org/emfcloud/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.eclipse.org/emfcloud/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
