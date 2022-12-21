@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/home/jenkins/agent/workspace/d_emfcloud-website-source_master/hugo",
+	"sourceRoot": "/home/runner/work/emfcloud-website-source/emfcloud-website-source/sources",
 	"sources": [
 		"themes/syna/assets/styles/index.scss",
 		"themes/syna/assets/styles/fontawesome/fontawesome.scss",
